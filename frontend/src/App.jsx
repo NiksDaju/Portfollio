@@ -84,10 +84,7 @@ function App() {
         <p>LinkedIn: linkedin.com/in/nikspokhrel</p>
       </section>
 
-      <section className="section backend-status">
-        <h2>Backend Status</h2>
-        <p>{message}</p>
-      </section>
+    
     </div>
   );
 }
